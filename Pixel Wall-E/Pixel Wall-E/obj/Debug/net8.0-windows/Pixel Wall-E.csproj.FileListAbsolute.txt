@@ -1,0 +1,33 @@
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.csproj.GenerateResource.cache
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.AssemblyInfoInputs.cache
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.AssemblyInfo.cs
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.csproj.CoreCompileInputs.cache
+D:\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.exe
+D:\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.deps.json
+D:\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.runtimeconfig.json
+D:\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.dll
+D:\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.pdb
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.dll
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\refint\Pixel Wall-E.dll
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.pdb
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.genruntimeconfig.cache
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\ref\Pixel Wall-E.dll
+D:\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\PixelWallE.MainForm.resources
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.exe
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.deps.json
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.runtimeconfig.json
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.dll
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\bin\Debug\net8.0-windows\Pixel Wall-E.pdb
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.csproj.GenerateResource.cache
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.AssemblyInfoInputs.cache
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.AssemblyInfo.cs
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.csproj.CoreCompileInputs.cache
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.dll
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\refint\Pixel Wall-E.dll
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.pdb
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel Wall-E.genruntimeconfig.cache
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\ref\Pixel Wall-E.dll
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\Pixel_Wall_E.Properties.Resources.resources
+D:\Proyecto 2\Pixel Wall-E\Pixel Wall-E\obj\Debug\net8.0-windows\PixelWallE.Interface.resources
